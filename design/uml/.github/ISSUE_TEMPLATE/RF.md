@@ -16,7 +16,7 @@ labels: "enhancement, RF"
 - [ ] Validar credenciais digitadas.
 - [ ] Retornar mensagem de erro clara quando os dados forem inválidos.
 - [ ] Registrar as tentativas no histórico/log.
-- [ ] [Adicione mais critérios aqui...]
+- [ ] Explodir Erro caso o usuário erre a senha várias vezes.
 
 ## 🔗 Dependências
 - Depende da Issue: #
