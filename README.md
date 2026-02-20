@@ -1,2 +1,5 @@
-# ex_19_02
-Exercício para aplicar o que foi ensinado em aula. 
+# Exercício 19/02
+
+Requisitos + Regas de Negócios
+
+Grupo - 4
